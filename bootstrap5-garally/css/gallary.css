@@ -1,0 +1,14 @@
+.bg-img {
+    background-image: url(../images/bush-g5d789c5a6_1920.jpg);
+    background-size: cover;
+    background-position: center 20%;
+}
+
+body {
+    font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
+}
+
+.img-thumbnail {
+    width: auto;
+    height: 75%;
+}
